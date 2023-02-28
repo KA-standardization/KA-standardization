@@ -40,3 +40,48 @@ Here are some ideas to get you started:
 <code><a href="https://github.com/KA-standardization/spider-man/tree/main/Browser" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-ar21.svg"></a></code>
 <code><a href="https://github.com/KA-standardization/spider-man/tree/main/Applications" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
 <code><a href="https://github.com/KA-standardization/spider-man/tree/main/ARM" target="_blank"><img height="30" src="https://github.com/todogroup/todogroup.org/blob/main/static/img/logo_arm.svg"></a></code>
+</br>
+### 感谢先行者们的付出
+</br>
+<code><a href="https://github.com/chromium/chromium">chromium</a></code>
+</br>
+<code><a href="https://source.android.com/">Android</a></code>
+</br>
+<code><a href="https://github.com/hanbinglengyue/FART">hanbinglengyue</a></code>
+</br>
+<code><a href="https://github.com/romainthomas/r2pay">romainthomas</a></code>
+</br>
+<code><a href="https://github.com/QBDI/QBDI">QBDI</a></code>
+</br>
+<code><a href="https://github.com/dqzg12300/dexfixer">dqzg12300</a></code>
+</br>
+<code><a href="https://github.com/cilame/v_jstools">cilame</a></code>
+</br>
+<code><a href="https://github.com/inorganik/debugout.js">inorganik</a></code>
+</br>
+<code><a href="https://github.com/patriksimek/vm2">patriksimek</a></code>
+</br>
+<code><a href="https://github.com/JSREI/ast-hook-for-js-RE">JSREI</a></code>
+</br>
+<code><a href="https://github.com/hluwa/Wallbreaker">hluwa</a></code>
+</br>
+<code><a href="https://github.com/openssl/openssl">openssl</a></code>
+</br>
+<code><a href="https://github.com/frida/frida">frida</a></code>
+</br>
+<code><a href="https://github.com/hugsy/gef">hugsy</a></code>
+</br>
+<code><a href="https://github.com/Pr0214/findhash">Pr0214</a></code>
+</br>
+<code><a href="https://github.com/L4ys/IDASignsrch">L4ys</a></code>
+</br>
+<code><a href="https://github.com/cheeriojs/cheerio">cheeriojs</a></code>
+</br>
+<code><a href="https://github.com/CrackerCat/FartExt">CrackerCat</a></code>
+</br>
+<code><a href="https://github.com/lasting-yang/frida_hook_libart">lasting-yang</a></code>
+</br>
+<code><a href="https://github.com/python/cpython">python</a></code>
+</br>
+<code><a href="https://github.com/fingerprintjs/fingerprintjs">fingerprintjs</a></code>
+</br>
