@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <code><a href="https://github.com/KA-standardization/spider-man/tree/main/Applications" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
 <code><a href="https://github.com/KA-standardization/spider-man/tree/main/ARM" target="_blank"><img height="30" src="https://github.com/todogroup/todogroup.org/blob/main/static/img/logo_arm.svg"></a></code>
 </br>
-### 感谢先行者们的付出
+### 感谢先行者的付出
 <code><a href="https://github.com/chromium/chromium">chromium</a></code>
 </br>
 <code><a href="https://source.android.com/">Android</a></code>
