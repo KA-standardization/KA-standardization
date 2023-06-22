@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </br>
 <code><a href="https://github.com/KA-standardization/spider-man">man</a></code>
 </br>
-这里有一些语言方便, 爬虫项目起接口
+这里有一些语言方便爬虫项目起接口
 </br>
 <code><a href="https://github.com/KA-standardization/spider-http">http</a></code>
 </br>
